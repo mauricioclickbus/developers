@@ -61,7 +61,7 @@
 
 Av. Queiroz Filho, 1700 - Vila Hamburguesa - São Paulo, SP
 
-Em frente à estação de metro Vila Lobos-Jaguaré e Parque Vila Lobos. O local é bem agradável e super acolhedor.
+Em frente à estação de metrô Vila Lobos-Jaguaré e Parque Vila Lobos. O local é bem agradável e super acolhedor.
 
 Lembrando vaga é CLT ( salario + VR ~R$ 20,00 + Plano de Saúde + Férias + 13ro + 1/3 de férias )
 

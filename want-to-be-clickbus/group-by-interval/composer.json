@@ -8,6 +8,11 @@
         "phpunit/phpunit": "4.1.*"
     },
     "license": "BSD-3-Clause",
+    "autoload" : {
+            "psr-4": {
+                        "Mvieira\\GroupByInterval\\": "src/GroupByInterval/"
+                    }
+        },
     "authors": [
         {
             "name": "Mauricio Vieira",
